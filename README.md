@@ -1145,8 +1145,6 @@ For each date, gather all products sold and count them.
 Aggregates products sold each date into a list and counts the unique items per date.
 
 ***
-Here’s a polished ending section you can use for your README:
-
 ***
 
 ## 🤝 Contributing
